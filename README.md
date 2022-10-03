@@ -1,6 +1,9 @@
 # QT-cpp
 QT Framework Examples
 
+Video : https://www.youtube.com/watch?v=yny4oZNp8pI
+
+#
 
 Notes : Please extract the icons folder to the project directory.
         Lütfen ikonlar klasörünü proje dizinine çıkarın.
