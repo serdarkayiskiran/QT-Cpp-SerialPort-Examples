@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ikonlar">
+        <file>ikonlar/baglantiVar.png</file>
+        <file>ikonlar/baglantiYok.png</file>
+    </qresource>
+</RCC>
